@@ -4,7 +4,7 @@
   "message_ar": "هذه النسخة لم تعد مدعومة، يرجى تحديث البرنامج",
   "password": {
     "enabled": true,
-    "salt": "273bf43db27ae316a321de169402e391",
-    "sha256": "f7fb72fe465a8aff325e4bd5bc92fa8c454a82b1aa85b9fad84bf2ff31c0ba4c"
+    "salt": "a5ed5749264d49dacfddbb21613e354d",
+    "sha256": "7e8a993d9e843bee712853e3a53b95713fad998be27c09d962f2a2b991035d36"
   }
 }
