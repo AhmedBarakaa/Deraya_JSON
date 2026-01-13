@@ -7,7 +7,7 @@
   "download_url": "https://github.com/AhmedBarakaa/Deraya_JSON/releases/download/v1.4.1/Deraya.Grades.Checker.exe",
   "password": {
     "enabled": true,
-    "salt": "a5ed5749264d49dacfddbb21613e354d",
-    "sha256": "7e8a993d9e843bee712853e3a53b95713fad998be27c09d962f2a2b991035d36"
+    "salt": "55e08b1e6680dfb58c097e80306b37f2",
+    "sha256": "07044ce4c94a8904183b559cef0e7e5ebd07d6338fe0325997cf836de7b2246f"
   }
 }
