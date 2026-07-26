@@ -1,11 +1,16 @@
 {
-  "min_version": "1.4.2",
-  "latest_version": "1.4.2",
+  "min_version": "1.4.1",
+  "latest_version": "1.4.3",
   "blocked_versions": [],
-  "message_ar": "هذا التحديث إلزامي. يجب تثبيت الإصدار 1.4.2 للمتابعة.",
-  "update_message_ar": "يتوفر تحديث أمني إلزامي. حدّث إلى الإصدار 1.4.2 للمتابعة.",
-  "download_url": "https://github.com/AhmedBarakaa/Deraya_JSON/releases/download/v1.4.2/Deraya.Grades.Checker.exe",
+  "message_ar": "يجب تحديث البرنامج للمتابعة.",
+  "update_message_ar": "هذا التحديث إلزامي. اختر نعم لتنزيل وتثبيت الإصدار 1.4.3. لا يمكن متابعة استخدام النسخة القديمة.",
+  "download_url": "https://github.com/AhmedBarakaa/Deraya_JSON/releases/download/v1.4.3/Deraya.Grades.Checker.exe",
   "password": {
+    "enabled": true,
+    "salt": "8d09c22b5f44d6640f0064e90b97ceed",
+    "sha256": "550426bcf72221b0e19c52dc8951091d60e8ff53101c1ace6d7aa7ff78d1c52e"
+  },
+  "secure_password": {
     "enabled": true,
     "salt": "55e08b1e6680dfb58c097e80306b37f2",
     "sha256": "07044ce4c94a8904183b559cef0e7e5ebd07d6338fe0325997cf836de7b2246f"
