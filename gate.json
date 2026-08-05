@@ -4,8 +4,8 @@
   "blocked_versions": [],
   "message_ar": "يلزم تحديث البرنامج للمتابعة.",
   "update_message_ar": "يتوفر تحديث إلزامي للمتابعة.",
-  "download_url": "https://github.com/AhmedBarakaa/Deraya_JSON/releases/download/v1.4.5/Deraya.Grades.Checker.Updater.exe",
-  "download_sha256": "9de9be5bc59d73b2124bbb27e2be04113f94fa303f99235692a70e41a3601892",
+  "download_url": "https://github.com/AhmedBarakaa/Deraya_JSON/releases/download/v1.4.5/Deraya.Grades.Checker.Updater.2.exe",
+  "download_sha256": "1ad0df17be712a139c4541018fd52081ff08aa749cc3a09a1d52c2e95710f805",
   "password": {
     "enabled": true,
     "salt": "",
